@@ -1,6 +1,7 @@
 # 💰 Smart Wallet – Personal Finance Tracker
 
-![Smart Wallet Screenshot](https://raw.githubusercontent.com/zeexz/Smart-Wallet/main/screenshots/home_screen.png)
+![Smart Wallet Screenshot](<img width="389" height="866" alt="Screenshot 2026-01-09 170339" src="https://github.com/user-attachments/assets/073f6156-ab77-4f99-8042-3a0e92044f2f" />
+)
 
 **Smart Wallet** is an Android expense tracker built with **Java** that helps you manage personal finances, set budgets, monitor real-time currency exchange rates, and stay updated with curated financial news—all in one intuitive app.
 
@@ -36,6 +37,7 @@
 | Min SDK            | API 21 (Android 5.0 Lollipop)  |
 
 ---
+![Uploading Screenshot 2026-01-09 170339.png…]()
 
 ## 📲 How to Run
 
