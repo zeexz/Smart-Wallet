@@ -1,6 +1,6 @@
 # 💰 Smart Wallet – Personal Finance Tracker
 
-![Smart Wallet Screenshot](https://raw.githubusercontent.com/zeexz/Smart-Wallet/main/screenshots/home_screen.png) <!-- Replace if you add screenshots later -->
+![Smart Wallet Screenshot](https://raw.githubusercontent.com/zeexz/Smart-Wallet/main/screenshots/home_screen.png)
 
 **Smart Wallet** is an Android expense tracker built with **Java** that helps you manage personal finances, set budgets, monitor real-time currency exchange rates, and stay updated with curated financial news—all in one intuitive app.
 
@@ -47,22 +47,4 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/zeexz/Smart-Wallet.git
-
-Add your API keys
-Create a Constants.java file in your main package:
-
-public class Constants {
-    public static final String NEWS_API_KEY = "YOUR_NEWSDATA_IO_API_KEY";
-    public static final String EXCHANGE_API_KEY = "YOUR_EXCHANGERATE_API_KEY"; // Use "YOUR_ACCESS_KEY" if using exchangerate-api.com
-}
-Never commit API keys! Add Constants.java to your .gitignore.
-
-#3.Build & Deploy
-Open project in Android Studio
-Sync Gradle dependencies
-Run on emulator or physical device
-
-🖼️ App Screenshots
-
-
 
