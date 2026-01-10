@@ -33,7 +33,7 @@
 | Language           | Java                           |
 | IDE                | Android Studio                 |
 | APIs               | ExchangeRate-API, NewsData.io  |
-| Local Storage      | SQLite (via Room or raw DB)    |
+| Local Storage      | Firebase    |
 | Min SDK            | API 21 (Android 5.0 Lollipop)  |
 
 ---
