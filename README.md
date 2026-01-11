@@ -41,7 +41,6 @@
 | Min SDK            | API 21 (Android 5.0 Lollipop)  |
 
 ---
-![Uploading Screenshot 2026-01-09 170339.png…]()
 
 ## 📲 How to Run
 
